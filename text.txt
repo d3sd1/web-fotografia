@@ -1,0 +1,208 @@
+
+///////////////////// Site Slogans //////////
+
+&name1=Maria Luna
+
+&name2=Fotografia profesional
+
+
+
+///////////////////// Buttons Name //////////
+
+&menu1=Inicio
+&menu2=Informacion
+&menu3=Fotos
+&menu4=Servicios
+&menu5=Videos
+&menu6=Contacto
+
+
+
+///////////////////// Buttons Images //////////
+
+&splash1=pics/m1.jpg&
+&splash2=pics/m2.jpg&
+&splash3=pics/m3.jpg&
+&splash4=pics/m4.jpg&
+&splash5=pics/m5.jpg&
+&splash6=pics/m6.jpg&
+&splash7=pics/m7.jpg&
+&splash8=pics/m8.jpg&
+&splash9=pics/m9.jpg&
+&splash10=pics/m10.jpg&
+&splash11=pics/m11.jpg&
+&splash12=pics/m12.jpg&
+&splash13=pics/m13.jpg&
+&splash14=pics/m14.jpg&
+&splash15=pics/m15.jpg&
+&splash16=pics/m16.jpg&
+&splash17=pics/m17.jpg&
+&splash18=pics/m18.jpg&
+&splash19=pics/m19.jpg&
+&splash20=pics/m20.jpg&
+&splash21=pics/m21.jpg&
+&splash22=pics/m22.jpg&
+&splash23=pics/m23.jpg&
+&splash24=pics/m24.jpg&
+&splash25=pics/m25.jpg&
+&splash26=pics/m26.jpg&
+&splash27=pics/m27.jpg&
+&splash28=pics/m28.jpg&
+&splash29=pics/m29.jpg&
+&splash30=pics/m30.jpg&
+&splash31=pics/m31.jpg&
+&splash32=pics/m32.jpg&
+
+
+
+
+
+///////////////////// Mail File Config //////////
+
+&mail_file=mail.php&
+
+
+
+
+
+///////////////////// Copyright //////////
+
+
+&copyright_txt=Copyright © 2016. <a href="http://andreigarciacuadra.es/">Andrei Garcia</a>.
+
+
+
+
+
+
+///////////////////// Privacy Policy //////////
+
+
+&privacy_readmore_title1=Privacidad
+&privacy_readmore_txt1=La visita a esta pagina Web no supone que el usuario este obligado a facilitar ninguna informacion sobre si mismo. Para el caso de que el usuario facilite alguna informacion de caracter personal, los datos recogidos en esta pagina Web seran utilizados con la finalidad, en la forma y con las limitaciones y derechos que recoge la Ley Organica 15/1.999, de Proteccion de Datos de Caracter Personal.Los datos facilitados por los usuarios seran incorporados a los ficheros de caracter personal de los que sea responsable Iniciativas Multimedia, siendo conservados y tratados en territorio espanol por el citado responsable del fichero. Para ello ha desarrollado e implementado todas las medidas de orden organizativo y tecnico, establecidas en la normativa de proteccion de datos de caracter personal, para evitar la perdida, mal uso, alteracion, acceso no autorizado y sustraccion de los datos de caracter personal facilitados por el usuario o visitante de la pagina Web, habida cuenta del estado de la tecnologia, la naturaleza de los datos almacenados y los riesgos a los que estan expuestos, ya provengan de la accion humana o del medio fisico o natural. Iniciativas Multimedia ha notificado sus tratamientos de datos de caracter personal o ficheros al Registro General de Proteccion de Datos dependiente de la Agencia Espanola de Proteccion de Datos. De este modo, sus ficheros constan inscritos en el citado Registro al que podra acceder el usuario al objeto de verificar la situacion de aquellos. Los usuarios que faciliten datos de caracter personal, consienten inequivocamente la incorporacion de sus datos a los ficheros, que contengan datos de caracter personal, de los que sea responsable Iniciativas Multimedia, asi como el tratamiento informatizado o no de los mismos con el fin de que puedan ser utilizados por Iniciativas Multimedia, con la finalidad de facilitar el desarrollo de las competencias y funciones que tiene reconocidas como Corporacion de Derecho Publico autorizando expresamente a este para la extraccion, almacenamiento de datos y estudios estadisticos. Iniciativas Multimedia podra conservar sus datos, una vez finalizada toda la relacion con el usuario, para el cumplimiento de las obligaciones legales. A su vez, procedera a la cancelacion de los datos recogidos cuando dejen de ser necesarios para el cumplimiento de las finalidades para las cuales fueron recabados. Iniciativas Multimedia cuenta con el consentimiento del usuario para hacer uso de los datos personales que del mismo dispone y para efectuar con ellos el tratamiento informatico necesario para la prestacion de sus servicios, reservandose el derecho de dar de baja todos los datos pertenecientes a usuarios que no cumplan los criterios de prestacion del servicio. En el caso de que los datos recogidos se utilizasen para una finalidad distinta para la cual hubiesen sido recabados o recogidos se requerira el consentimiento previo de los interesados. Los datos recogidos no seran objeto de cesion salvo que previamente se obtenga el consentimiento del interesado. Los usuarios podran revocar su consentimiento en cualquier momento sin efectos retroactivos asi como ejercer gratuitamente los derechos de acceso, rectificacion cancelacion y oposicion de sus datos en los terminos senalados en la Ley Organica 15/1999, de Proteccion de Datos de Caracter Personal, conforme al procedimiento legalmente establecido. Estos derechos podran ser ejercitados dirigiendose por escrito acompanando a su carta fotocopia del D.N.I. a Iniciativas Multimedia, o en la siguiente direccion de correo electronico contacto@iniciativasmultimedia.com en cuyo caso su correo debera estar firmado digitalmente para acreditar su identidad. Cuando se proceda a la recogida de los datos se indicara el caracter voluntario u obligatorio de las respuestas. La negativa a proporcionar los datos calificados como obligatorios supondra la no prestacion del servicio o informacion solicitada. Asi mismo, podran facilitarse datos de modo voluntario con la finalidad de prestar del mejor modo el servicio demandado o la informacion solicitada. Cuando para recabar estos datos de caracter personal se utilicen formularios, la identificacion del usuario es plena, ya que es el propio usuario, el que, voluntariamente, introduce sus datos en los formularios disponibles en nuestra pagina Web. En el caso de que los usuarios de esta pagina Web debieran facilitar su direccion de correo electronico para acceder a algunos de los servicios o informacion demandados podra manifestar que no desean recibir ningun tipo de comunicacion que Iniciativas Multimedia pudiese enviar.
+
+
+&home_txt1=Bienvenido
+&home_txt2=Este es un blog dedicado exclusivamente a mis fotos, las cuales realizo con mi inseparable camara la cual llevo dondequiera que vaya. Si deseas que te realice una seccion, puedes conseguirla a traves de la seccion contacto.
+&home_txt3=Agradecimientos
+&home_txt4=Agradecer a <a href="http://andreigarciacuadra.es/">Andrei Garcia</a> que me hiciese esta web y a toda mi familia por su apoyo incondicional, y a todas aquellas personas que estuvieron cuando necesite cualquier cosa que buscara. Espero seguir mejorando como fotografa y ante cualquier duda, sugerencia o inquietud no dudes en contactarme mediante la seccion contacto ^_^. Mi especialidad son las fotos hiperrealistas y me encanta el juego de sombras y los lugares reconditos.
+&home_txt6=Novedades
+&home_txt7=Vaya...<br>Parece que aun no hay novedades a la vista...<br> Prueba en unos dias.
+
+
+
+
+&home_img1=home01.jpg&
+
+&home_readmore_title1=
+&home_readmore_txt1=
+
+
+
+/////////////  about   ////////////
+
+&about_txt1=About Me
+&about_txt2=<b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss<br><br><b>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.</b><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget lectus. Mauris justo. Suspendiss&
+&about_txt3=Professional Travel History
+&about_txt4=Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc suscipit. Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est.<br><br>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris.
+&about_txt5=read more
+&about_txt6=Testimonials
+&about_txt7=Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. 
+
+
+
+
+
+
+
+&about_img1=about01.jpg&
+
+
+
+&about_readmore_title1=About #1
+
+
+
+&about_readmore_txt1=Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, temspor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.&
+
+
+
+
+
+/////////////  photo   ////////////
+
+
+&photo_txt1=Category:
+
+
+
+
+
+
+
+/////////////  services   ////////////
+
+&services_txt1=La visita a esta pagina Web no supone que el usuario este obligado a facilitar ninguna informacion sobre si mismo. Para el caso de que el usuario facilite alguna informacion de caracter personal, los datos recogidos en esta pagina Web seran utilizados con la finalidad, en la forma y con las limitaciones y derechos que recoge la Ley Organica 15/1.999, de Proteccion de Datos de Caracter Personal.Los datos facilitados por los usuarios seran incorporados a los ficheros de caracter personal de los que sea responsable Iniciativas Multimedia, siendo conservados y tratados en territorio espanol por el citado responsable del fichero. Para ello ha desarrollado e implementado todas las medidas de orden organizativo y tecnico, establecidas en la normativa de proteccion de datos de caracter personal, para evitar la perdida, mal uso, alteracion, acceso no autorizado y sustraccion de los datos de caracter personal facilitados por el usuario o visitante de la pagina Web, habida cuenta del estado de la tecnologia, la naturaleza de los datos almacenados y los riesgos a los que estan expuestos, ya provengan de la accion humana o del medio fisico o natural. Iniciativas Multimedia ha notificado sus tratamientos de datos de caracter personal o ficheros al Registro General de Proteccion de Datos dependiente de la Agencia Espanola de Proteccion de Datos. De este modo, sus ficheros constan inscritos en el citado Registro al que podra acceder el usuario al objeto de verificar la situacion de aquellos. Los usuarios que faciliten datos de caracter personal, consienten inequivocamente la incorporacion de sus datos a los ficheros, que contengan datos de caracter personal, de los que sea responsable Iniciativas Multimedia, asi como el tratamiento informatizado o no de los mismos con el fin de que puedan ser utilizados por Iniciativas Multimedia, con la finalidad de facilitar el desarrollo de las competencias y funciones que tiene reconocidas como Corporacion de Derecho Publico autorizando expresamente a este para la extraccion, almacenamiento de datos y estudios estadisticos. Iniciativas Multimedia podra conservar sus datos, una vez finalizada toda la relacion con el usuario, para el cumplimiento de las obligaciones legales. A su vez, procedera a la cancelacion de los datos recogidos cuando dejen de ser necesarios para el cumplimiento de las finalidades para las cuales fueron recabados. Iniciativas Multimedia cuenta con el consentimiento del usuario para hacer uso de los datos personales que del mismo dispone y para efectuar con ellos el tratamiento informatico necesario para la prestacion de sus servicios, reservandose el derecho de dar de baja todos los datos pertenecientes a usuarios que no cumplan los criterios de prestacion del servicio. En el caso de que los datos recogidos se utilizasen para una finalidad distinta para la cual hubiesen sido recabados o recogidos se requerira el consentimiento previo de los interesados. Los datos recogidos no seran objeto de cesion salvo que previamente se obtenga el consentimiento del interesado. Los usuarios podran revocar su consentimiento en cualquier momento sin efectos retroactivos asi como ejercer gratuitamente los derechos de acceso, rectificacion cancelacion y oposicion de sus datos en los terminos senalados en la Ley Organica 15/1999, de Proteccion de Datos de Caracter Personal, conforme al procedimiento legalmente establecido. Estos derechos podran ser ejercitados dirigiendose por escrito acompanando a su carta fotocopia del D.N.I. a Iniciativas Multimedia, o en la siguiente direccion de correo electronico contacto@iniciativasmultimedia.com en cuyo caso su correo debera estar firmado digitalmente para acreditar su identidad. Cuando se proceda a la recogida de los datos se indicara el caracter voluntario u obligatorio de las respuestas. La negativa a proporcionar los datos calificados como obligatorios supondra la no prestacion del servicio o informacion solicitada. Asi mismo, podran facilitarse datos de modo voluntario con la finalidad de prestar del mejor modo el servicio demandado o la informacion solicitada. Cuando para recabar estos datos de caracter personal se utilicen formularios, la identificacion del usuario es plena, ya que es el propio usuario, el que, voluntariamente, introduce sus datos en los formularios disponibles en nuestra pagina Web. En el caso de que los usuarios de esta pagina Web debieran facilitar su direccion de correo electronico para acceder a algunos de los servicios o informacion demandados podra manifestar que no desean recibir ningun tipo de comunicacion que Iniciativas Multimedia pudiese enviar.
+&services_txt2=Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus.<br><br>Duis pulvinar. Vestibulum vel pede at sapien sodales mattis.Quisque pretium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum ectus eget ellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus.
+&services_txt3=read more
+&services_txt4=Services List
+&services_txt5=Quisque retium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nislQuisque retium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nislQuisque retium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nislQuisque retium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl&
+&services_txt6=Services Overview
+&services_txt7=<b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc suscipit. Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est.</b><br><br>Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Quisque retium, lacus nec iaculis vehicula, arcu libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl
+&services_txt8=read more
+
+
+
+
+&services_img1=services01.jpg&
+
+
+
+&services_readmore_title1=Services #1
+&services_readmore_title2=Services #2
+
+
+
+
+&services_readmore_txt1=Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, temspor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.&
+
+&services_readmore_txt2=Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, temspor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper aliquet libero. In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum vel pede at sapien sodales mattis. Vestibulum pede. Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh lectus, dapibus id, tempor eu, tempor non, erat. Proin pede eros, pharetra ut, viverra sed, egestas nec, mauris. In pharetra ipsum condimentum elit. Suspendisse mattis turpis eget odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Pellentesque tempus dictum urna. Sed consequat massa eget metus. Quisque mollis pretium nisl. Mauris venenatis porttitor risus. Phasellus accumsan turpis. Nam sagittis nulla quis orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec vitae elit.&
+
+
+
+/////////////  video   ////////////
+
+
+&video_txt1=Video
+&video_txt2=Choose category
+
+
+
+
+
+
+/////////////  contacts   ////////////
+
+
+&contacts_txt1=Enlaces de interes
+&contacts_txt2=<b><a href="http://andreigarciacuadra.es/">http://andreigarciacuadra.es/</a></b><br>Sitio web del programador de la web.<br><b><a href="https://www.instagram.com/fotografias_ml/">https://www.instagram.com/fotografias_ml/</a></b><br>Cuenta oficial de instagram de mis fotografias.
+&contacts_txt3=Sobre mi
+&contacts_txt4=<b>Maria Luna</b><br>Principe pio, Madrid<br>E-mail:   <a href="mailto:companyname.com"><font color="#ffffff"><u>mail@companyname.com</u></font></a>
+&contacts_txt5=Contacto
+&contacts_txt6=Limpiar
+&contacts_txt7=Enviar
+
+
+
+
+
+
+&contacts_img1=contacts01.jpg&
+
+
+
+/////////////  do not remove   ////////////
+
+
+
+&file_prelouder=1&
